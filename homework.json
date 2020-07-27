@@ -1,5 +1,60 @@
 {
-	"CSS": [],
+	"CSS": [
+        {
+			"title": "Class schedule",
+			"description": "Draw the class schedule by using <code>table</code> tag with <code>colspan</code> and <code>rowspan</code> attribute.",
+			"link": "/HTML/01_class_schedule.html",
+			"imgPath": "/site/assets/screen_class_schedule.png",
+			"collapse_name": "schedule-collapse",
+			"since": "2020-6-24",
+			"reference_link": "none"
+		},
+        {
+			"title": "Anilove",
+			"description": "Draw the same layout and style of the reference web site. (Without RWD)",
+			"link": "/HTML/02_Anilove.html",
+			"imgPath": "/site/assets/screen_anilove.png",
+			"collapse_name": "anilove-collapse",
+			"since": "2020-6-29",
+			"reference_link": "http://template73996.motopreview.com/"
+		},
+        {
+			"title": "Naturio",
+			"description": "Draw the same layout and style of the reference web site. (Without RWD)",
+			"link": "/HTML/03_naturio.html",
+			"imgPath": "/site/assets/screen_naturio.png",
+			"collapse_name": "naturio-collapse",
+			"since": "2020-7-3",
+			"reference_link": "https://ld-wp.template-help.com/woocommerce_prod-11619_v1"
+		},
+        {
+			"title": "Car",
+			"description": "Practice <code>position</code> by reference the TOYOTA web site.",
+			"link": "/HTML/04_Car.html",
+			"imgPath": "/site/assets/screen_car.png",
+			"collapse_name": "car-collapse",
+			"since": "2020-7-6",
+			"reference_link": "https://www.toyota.com.tw/tech_TNGA.aspx#/advantages"
+		},
+        {
+			"title": "Build School",
+			"description": "Draw the same layout and style of the reference web site. (With RWD)",
+			"link": "/HTML/05_BS.html",
+			"imgPath": "/site/assets/screen_bs.png",
+			"collapse_name": "bs-collapse",
+			"since": "2020-7-9",
+			"reference_link": "https://www.build-school.com/"
+		},
+        {
+			"title": "Build School",
+			"description": "Draw the same layout and style of the reference web site with <strong>bootstrap 4</strong>.",
+			"link": "/HTML/06_BS2.html",
+			"imgPath": "/site/assets/screen_bs2.png",
+			"collapse_name": "bs2-collapse",
+			"since": "2020-7-14",
+			"reference_link": "https://www.build-school.com/"
+		}
+    ],
 	"JS": [
 		{
 			"title": "Covid Table",
