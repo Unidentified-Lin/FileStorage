@@ -73,6 +73,15 @@
 			"collapse_name": "apple-product-collapse",
 			"since": "2020-7-23",
 			"reference_link": "https://www.apple.com/tw/shop/buy-ipad/ipad-10-2"
+        },
+        {
+			"title": "Guess Number",
+			"description": "A small game of guessing number by JavaScript.",
+			"link": "/JS/2020-7-24/GuessNumber.html",
+			"imgPath": "/site/assets/screen_guess_number.png",
+			"collapse_name": "guess-number-collapse",
+			"since": "2020-7-24",
+			"reference_link": "none"
 		}
 	]
 }
