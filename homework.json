@@ -1,87 +1,87 @@
 {
 	"CSS": [
-        {
+		{
 			"title": "Class schedule",
 			"description": "Draw the class schedule by using <code>table</code> tag with <code>colspan</code> and <code>rowspan</code> attribute.",
-			"link": "/HTML/01_class_schedule.html",
+			"work_link": { "link": "/HTML/01_class_schedule.html", "target": "_blank" },
 			"imgPath": "/site/assets/screen_class_schedule.png",
 			"collapse_name": "schedule-collapse",
 			"since": "2020-6-24",
-			"reference_link": "none"
+			"reference_link": { "link": "none", "target": "_blank" }
 		},
-        {
+		{
 			"title": "Anilove",
 			"description": "Draw the same layout and style of the reference web site. (Without RWD)",
-			"link": "/HTML/02_Anilove.html",
+			"work_link": { "link": "/HTML/02_Anilove.html", "target": "_blank" },
 			"imgPath": "/site/assets/screen_anilove.png",
 			"collapse_name": "anilove-collapse",
 			"since": "2020-6-29",
-			"reference_link": "http://template73996.motopreview.com/"
+			"reference_link": { "link": "http://template73996.motopreview.com/", "target": "_blank" }
 		},
-        {
+		{
 			"title": "Naturio",
 			"description": "Draw the same layout and style of the reference web site. (Without RWD)",
-			"link": "/HTML/03_naturio.html",
+			"work_link": { "link": "/HTML/03_naturio.html", "target": "_blank" },
 			"imgPath": "/site/assets/screen_naturio.png",
 			"collapse_name": "naturio-collapse",
 			"since": "2020-7-3",
-			"reference_link": "https://ld-wp.template-help.com/woocommerce_prod-11619_v1"
+			"reference_link": { "link": "https://ld-wp.template-help.com/woocommerce_prod-11619_v1", "target": "_blank" }
 		},
-        {
+		{
 			"title": "Car",
 			"description": "Practice <code>position</code> by reference the TOYOTA web site.",
-			"link": "/HTML/04_Car.html",
+			"work_link": { "link": "/HTML/04_Car.html", "target": "_blank" },
 			"imgPath": "/site/assets/screen_car.png",
 			"collapse_name": "car-collapse",
 			"since": "2020-7-6",
-			"reference_link": "https://www.toyota.com.tw/tech_TNGA.aspx#/advantages"
+			"reference_link": { "link": "https://www.toyota.com.tw/tech_TNGA.aspx#/advantages", "target": "_blank" }
 		},
-        {
+		{
 			"title": "Build School",
 			"description": "Draw the same layout and style of the reference web site. (With RWD)",
-			"link": "/HTML/05_BS.html",
+			"work_link": { "link": "/HTML/05_BS.html", "target": "_blank" },
 			"imgPath": "/site/assets/screen_bs.png",
 			"collapse_name": "bs-collapse",
 			"since": "2020-7-9",
-			"reference_link": "https://www.build-school.com/"
+			"reference_link": { "link": "https://www.build-school.com/", "target": "_blank" }
 		},
-        {
+		{
 			"title": "Build School",
 			"description": "Draw the same layout and style of the reference web site with <strong>bootstrap 4</strong>.",
-			"link": "/HTML/06_BS2.html",
+			"work_link": { "link": "/HTML/06_BS2.html", "target": "_blank" },
 			"imgPath": "/site/assets/screen_bs2.png",
 			"collapse_name": "bs2-collapse",
 			"since": "2020-7-14",
-			"reference_link": "https://www.build-school.com/"
+			"reference_link": { "link": "https://www.build-school.com/", "target": "_blank" }
 		}
-    ],
+	],
 	"JS": [
 		{
 			"title": "Covid Table",
 			"description": "Set <code>Object</code> data into <code>table</code> dynamically with JavaScript.",
-			"link": "/JS/2020-7-22/CovidTable.html",
+			"work_link": { "link": "/JS/2020-7-22/CovidTable.html", "target": "_blank" },
 			"imgPath": "/site/assets/screen_covid_table.png",
 			"collapse_name": "covid-table-collapse",
 			"since": "2020-7-22",
-			"reference_link": "none"
+			"reference_link": { "link": "none", "target": "_blank" }
 		},
 		{
 			"title": "Apple Product",
 			"description": "Draw the apple product spec select section with js function.",
-			"link": "/JS/2020-7-23/AppleProduct.html",
+			"work_link": { "link": "/JS/2020-7-23/AppleProduct.html", "target": "_blank" },
 			"imgPath": "/site/assets/screen_apple_product.png",
 			"collapse_name": "apple-product-collapse",
 			"since": "2020-7-23",
-			"reference_link": "https://www.apple.com/tw/shop/buy-ipad/ipad-10-2"
-        },
-        {
+			"reference_link": { "link": "https://www.apple.com/tw/shop/buy-ipad/ipad-10-2", "target": "_blank" }
+		},
+		{
 			"title": "Guess Number",
 			"description": "A small game of guessing number by JavaScript.",
-			"link": "/JS/2020-7-24/GuessNumber.html",
+			"work_link": { "link": "/JS/2020-7-24/GuessNumber.html", "target": "" },
 			"imgPath": "/site/assets/screen_guess_number.png",
 			"collapse_name": "guess-number-collapse",
 			"since": "2020-7-24",
-			"reference_link": "none"
+			"reference_link": { "link": "none", "target": "_blank" }
 		}
 	]
 }
