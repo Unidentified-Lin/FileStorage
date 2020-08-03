@@ -57,6 +57,15 @@
 	],
 	"JS": [
 		{
+			"title": "Simple JS",
+			"description": "Simple functions of JavaScript.",
+			"work_link": { "link": "/JS/2020-7-20/JsPractice.html", "target": "_blank" },
+			"imgPath": "/site/assets/screen_jspractice.png",
+			"collapse_name": "jsPractice-collapse",
+			"since": "2020-7-20",
+			"reference_link": { "link": "none", "target": "_blank" }
+		},
+		{
 			"title": "Covid Table",
 			"description": "Set <code>Object</code> data into <code>table</code> dynamically with JavaScript.",
 			"work_link": { "link": "/JS/2020-7-22/CovidTable.html", "target": "_blank" },
