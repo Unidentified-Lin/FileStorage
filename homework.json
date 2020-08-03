@@ -59,7 +59,7 @@
 		{
 			"title": "Simple JS",
 			"description": "Simple functions of JavaScript.",
-			"work_link": { "link": "/JS/2020-7-20/JsPractice.html", "target": "_blank" },
+			"work_link": { "link": "/JS/2020-7-20/JsPractice.html", "target": "" },
 			"imgPath": "/site/assets/screen_jspractice.png",
 			"collapse_name": "jsPractice-collapse",
 			"since": "2020-7-20",
