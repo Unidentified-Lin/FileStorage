@@ -68,7 +68,7 @@
 		{
 			"title": "Covid Table",
 			"description": "Set <code>Object</code> data into <code>table</code> dynamically with JavaScript.",
-			"work_link": { "link": "/JS/2020-7-22/CovidTable.html", "target": "_blank" },
+			"work_link": { "link": "/JS/2020-7-22/CovidTable.html", "target": "" },
 			"imgPath": "/site/assets/screen_covid_table.png",
 			"collapse_name": "covid-table-collapse",
 			"since": "2020-7-22",
