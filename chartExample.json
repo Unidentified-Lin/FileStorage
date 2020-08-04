@@ -1,0 +1,7 @@
+{
+	"labels": ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
+	"datas": [
+		[12, 19, 3, 5, 2, 3],
+		[3, 2, 5, 3, 19, 12]
+	]
+}
