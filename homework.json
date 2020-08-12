@@ -118,6 +118,15 @@
 			"collapse_name": "googlemap-collapse",
 			"since": "2020-7-30",
 			"reference_link": { "link": "none", "target": "_blank" }
+		},
+		{
+			"title": "Calendar",
+			"description": "Purely front-end calendar app, stored data in browser localStorage.",
+			"work_link": { "link": "/JS/2020-8-5/Calendar.html", "target": "_blank" },
+			"imgPath": "/site/assets/screen_calendar.png",
+			"collapse_name": "calendar-collapse",
+			"since": "2020-8-5",
+			"reference_link": { "link": "none", "target": "_blank" }
 		}
 	]
 }
